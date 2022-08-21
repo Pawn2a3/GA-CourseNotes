@@ -16,3 +16,6 @@ def get_int():
     return n
 
 "def fib(n):"
+
+if __name__=="__main__":
+    print("Fibonacci ")
