@@ -4,7 +4,7 @@ The goal of this algorithm is to compute the nth number of the Fibonacci sequenc
 """
 
 def get_int():
-    n = input("This recursion algorithm will accept a positive integer as the nth number in the Fibonacci sequence. "
+    n = input("This recursion algorithm will accept a positive integer as the nth number in the Fibonacci sequence. ")
     try:
         n = int(n)
     except:
